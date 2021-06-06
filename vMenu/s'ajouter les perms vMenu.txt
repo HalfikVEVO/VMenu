@@ -1,0 +1,1 @@
+Pour vous ajouter la perm du vMenu rendez vous dans permissions.cfg ligne 149 prendre l'exemple de ma ligne
